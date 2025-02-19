@@ -16,7 +16,7 @@ package signalfxgatewayprometheusremotewritereceiver
 
 import (
 	"context"
-	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/skywalkingreceiver/internal/metadata"
+	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/signalfxgatewayprometheusremotewritereceiver/internal/metadata"
 
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/config/confighttp"

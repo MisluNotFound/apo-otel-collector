@@ -16,8 +16,8 @@ package signalfxgatewayprometheusremotewritereceiver
 
 import (
 	"fmt"
-	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/skywalkingreceiver/internal"
-	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/skywalkingreceiver/internal/metadata"
+	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/signalfxgatewayprometheusremotewritereceiver/internal"
+	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/signalfxgatewayprometheusremotewritereceiver/internal/metadata"
 	"math"
 	"sync/atomic"
 	"time"

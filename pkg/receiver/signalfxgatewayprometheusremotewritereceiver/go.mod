@@ -1,4 +1,4 @@
-module github.com/CloudDetail/apo-otel-collector/pkg/receiver/skywalkingreceiver
+module github.com/CloudDetail/apo-otel-collector/pkg/receiver/signalfxgatewayprometheusremotewritereceiver
 
 go 1.23.0
 

@@ -15,7 +15,7 @@
 package signalfxgatewayprometheusremotewritereceiver
 
 import (
-	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/skywalkingreceiver/internal/metadata"
+	"github.com/CloudDetail/apo-otel-collector/pkg/receiver/signalfxgatewayprometheusremotewritereceiver/internal/metadata"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
